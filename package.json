@@ -1,0 +1,24 @@
+{
+  "name": "pfms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node index",
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "johnmakla",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-link-context": "^1.0.20",
+    "apollo-server": "^2.25.3",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^14.7.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.14"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
