@@ -70,6 +70,7 @@ module.exports = gql`
     performanceIndicator: String!
     startdate: String!
     enddate: String!
+    achievedResult: String!
     selfScore: String!
     supervisorScore: String!
     jointScore: String!

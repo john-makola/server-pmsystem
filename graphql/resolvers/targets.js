@@ -114,6 +114,7 @@ module.exports = {
         selfScore: 0,
         supervisorScore: 0,
         jointScore: 0,
+        achievedResult: "Pending Update",
         startdate,
         enddate,
       });
